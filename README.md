@@ -1,0 +1,2 @@
+# CustomSerializationDotNet
+Examples of serialization 
